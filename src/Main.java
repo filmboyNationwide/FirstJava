@@ -20,7 +20,7 @@ public class Main {
 //    }
 //
     public static void main(String[] args) {
-        feast("heron", "harissa naan");
+        feast("hen", "harissa naan");
 
         }
 //        String name = "The Doctor";
